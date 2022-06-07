@@ -30,3 +30,10 @@ let correctCode = true;
 ///////////// SYMBOL value that is unique and cannot be changed /////////////
 
 ///////////// BITINT larger integer's than the number type can hold/////////////
+
+
+//BOOLEAN\\ 
+let footballIsGreat = true;
+console.log(footballIsGreat);
+
+console.log(typeof true); 
